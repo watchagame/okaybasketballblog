@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://okaybasketball.herokuapp.com",
-    "contentApiKey": "7b113317-60b3-42f2-bd8d-b4cced97beeb"
+    "apiUrl": "https://okay-basketball.ghost.io",
+    "contentApiKey": "1124757784e2c9da65c0e56615"
   },
   "production": {
-    "apiUrl": "https://okaybasketball.herokuapp.com",
-    "contentApiKey": "7b113317-60b3-42f2-bd8d-b4cced97beeb"
+    "apiUrl": "https://okay-basketball.ghost.io",
+    "contentApiKey": "1124757784e2c9da65c0e56615"
   }
 }
