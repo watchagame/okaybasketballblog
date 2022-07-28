@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://okay-basketball.ghost.io",
+    "contentApiKey": "1124757784e2c9da65c0e56615"
+  },
+  "production": {
+    "apiUrl": "https://okay-basketball.ghost.io",
+    "contentApiKey": "1124757784e2c9da65c0e56615"
+  }
+}
